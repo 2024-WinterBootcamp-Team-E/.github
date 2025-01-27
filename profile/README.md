@@ -1,4 +1,4 @@
-# 프로젝트 이름
+# EASTUDY - 영어학습을 위한 서비스
 
 <br>
 
@@ -13,42 +13,38 @@
 - [Blog](#blog)
 
 <br>
-
+# 회원가입 , 로그인
 ## 영상
 
 <br>
-
+# 채팅방 생성 및 대화 영상
 ## 영상
 
 <br>
-
+# 발음평가 영상
 ## 영상
 
 <br>
-
+# 마이페이지 영상
 ## 영상
-
-<br>
-
-## 영상
-
-<br>
 
 ## 🔗 ERD
 
-(ERD 관련 이미지나 설명을 넣어주세요)
+![erd](https://github.com/user-attachments/assets/f6521686-f723-4fe5-b9a4-f95a16caa49d)
+
 
 <br>
 
 ## 🚧 System Architecture
+<img width="963" alt="스크린샷 2025-01-28 오전 2 20 22" src="https://github.com/user-attachments/assets/776e948c-e2ce-45a7-af47-ebccb8619333" />
 
-(시스템 아키텍처 다이어그램이나 설명을 넣어주세요)
 
 <br>
 
 ## 📡 API
 
-(주요 API 엔드포인트 및 스펙을 작성해주세요)
+![시스템](https://github.com/user-attachments/assets/a0f3e089-8973-4d03-87ab-11223d91e017)
+
 
 <br>
 
@@ -57,12 +53,12 @@
 
 <table>
   <tr>
-    <td align="center"><b>Grafana 대시보드 예시</b></td>
+    <td align="center"><b></b></td>
   </tr>
   <tr>
     <td>
-      <!-- 아래에 Grafana 스크린샷 삽입 -->
-      <img src="이미지_예시_URL" width="600"/>
+      <img width="1505" alt="대시보드사진" src="https://github.com/user-attachments/assets/fa59ccba-6ace-4026-844e-25c7e188f665" />
+      <img width="511" alt="슬랙사진" src="https://github.com/user-attachments/assets/1b1ec1ff-b96a-48a9-8a91-232b8f656277" />
     </td>
   </tr>
 </table>
@@ -250,7 +246,7 @@
 <br>
 
 ## 📝 Blog
-> 블로그나 기술 문서를 정리한 링크를 남겨주세요
+> 블로그링크
 
 ---
 
