@@ -1,5 +1,8 @@
 # EASTUDY - 영어학습을 위한 서비스
 
+![로고](https://github.com/user-attachments/assets/f68c3d89-0ec0-4920-bccf-4feef76caebb)
+
+
 <br>
 
 ## 🗂 Index
