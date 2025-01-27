@@ -1,33 +1,16 @@
+# 프로젝트 이름
 
-
-# EAENGLISH - 영어학습을 위한 서비스
-## 로고 집어넣을 곳
-
-<br>
-
-## 데모영상
-```
 <br>
 
 ## 🗂 Index
-
- - [Service Flow](#service-flow)
- - [System Architecture](#system-architecture)
- - [Tech Stack](#tech-stack)
- - [ERD](#%EF%B8%8Ferd)
- - [API](#api)
- - [Monitoring Tools](#%EF%B8%8Fmonitoring-tools)
- - [Member](#member)
- - [Blog](#blog)
-
-<br>
-
-## 영상
-
-<br>
-
-## 영상
-
+- [Service Flow](#service-flow)
+- [System Architecture](#system-architecture)
+- [Tech Stack](#tech-stack)
+- [ERD](#erd)
+- [API](#api)
+- [Monitoring Tools](#monitoring-tools)
+- [Member](#member)
+- [Blog](#blog)
 
 <br>
 
@@ -37,44 +20,52 @@
 
 ## 영상
 
+<br>
 
-
-
+## 영상
 
 <br>
 
 ## 영상
 
+<br>
 
+## 영상
 
 <br>
 
 ## 🔗 ERD
 
-
+(ERD 관련 이미지나 설명을 넣어주세요)
 
 <br>
 
 ## 🚧 System Architecture
 
-
+(시스템 아키텍처 다이어그램이나 설명을 넣어주세요)
 
 <br>
 
 ## 📡 API
 
-
-
+(주요 API 엔드포인트 및 스펙을 작성해주세요)
 
 <br>
 
 ## 🖥️ Monitoring Tools
->   Grafana & Slack
+> Grafana & Slack
 
 <table>
-## 그라파나 사진
+  <tr>
+    <td align="center"><b>Grafana 대시보드 예시</b></td>
+  </tr>
+  <tr>
+    <td>
+      <!-- 아래에 Grafana 스크린샷 삽입 -->
+      <img src="이미지_예시_URL" width="600"/>
+    </td>
+  </tr>
 </table>
-
 
 <br>
 
@@ -102,7 +93,7 @@
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/AMAZON_EC2-FF9900?style=for-the-badge&logo=AMAZONEC2&logoColor=white"/></br>
+      <img src="https://img.shields.io/badge/AMAZON_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/elastic_load_balancing-8C4FFF?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white"/><br>
@@ -111,15 +102,15 @@
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/AMAZON_RDS-527FFF?style=for-the-badge&logo=AMAZONRDS&logoColor=white"/></br>
-      <img src="https://img.shields.io/badge/AMAZON_S3-569A31?style=for-the-badge&logo=AMAZONS3&logoColor=white"/></br>
+      <img src="https://img.shields.io/badge/AMAZON_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/AMAZON_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white">
     </td>
     <td align="center">
        <img src="https://img.shields.io/badge/Cadvisor-34E0A1?style=for-the-badge&logo=tripadvisor&logoColor=white"/><br>
-       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/></br>
-    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white"/></br>
-    <img src="https://img.shields.io/badge/ELK_stack-005571?style=for-the-badge&logo=Elastic&logoColor=white"/></br>
+       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/><br>
+       <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white"/><br>
+       <img src="https://img.shields.io/badge/ELK_stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/><br>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/><br>
@@ -134,10 +125,10 @@
   </tr>
 </table>
 
-
 <br>
 
 ## 🧑‍🤝‍🧑 Member
+
 <table width="1000">
     <thead>
     </thead>
@@ -150,36 +141,35 @@
             </a>
         </td>
         <td width="100" align="center">
-             <a href="">
-                <img src="" width="70" height="70">
+             <a href="https://github.com/drghdtjr">
+                <img src="https://github.com/user-attachments/assets/d851b869-6275-455f-86d0-8e3714771b17" width="70" height="70">
             </a>
         </td>
         <td width="100" align="center">
-             <a href="">
-                <img src="" width="70" height="70">
+             <a href="https://github.com/drghdtjr">
+                <img src="https://github.com/user-attachments/assets/d851b869-6275-455f-86d0-8e3714771b17" width="70" height="70">
             </a>
         </td>
         <td width="100" align="center">
-             <a href="">
-                <img src="" width="70" height="70">
+             <a href="https://github.com/drghdtjr">
+                <img src="https://github.com/user-attachments/assets/d851b869-6275-455f-86d0-8e3714771b17" width="70" height="70">
             </a>
         </td>
         <td width="100" align="center">
-             <a href="">
-                <img src="" width="70" height="70">
+             <a href="https://github.com/drghdtjr">
+                <img src="https://github.com/user-attachments/assets/d851b869-6275-455f-86d0-8e3714771b17" width="70" height="70">
             </a>
         </td>
         <td width="100" align="center">
-            <a href="">
-                <img src="" width="70" height="70">
+            <a href="https://github.com/drghdtjr">
+                <img src="https://github.com/user-attachments/assets/d851b869-6275-455f-86d0-8e3714771b17" width="70" height="70">
             </a>
         </td>
         <td width="100" align="center">
-            <a href="">
-                <img src="" width="70" height="70">
+            <a href="https://github.com/drghdtjr">
+                <img src="https://github.com/user-attachments/assets/d851b869-6275-455f-86d0-8e3714771b17" width="70" height="70">
             </a>
         </td> 
-
     </tr>
     <tr>
         <th>Name</th>
@@ -198,19 +188,22 @@
             Leader<br>
         </td>
         <td width="150" align="center">
-            Backend<br>
+            Backend
         </td>
         <td width="150" align="center">
-            Frontend<br>
+            Frontend
         </td>
         <td width="150" align="center">
-            Backend<br>
+            Backend
         </td>
         <td width="150" align="center">
-            Backend<br>
+            Backend
         </td>
         <td width="150" align="center">
-            Backend<br>
+            Backend
+        </td>
+        <td width="150" align="center">
+            Backend
         </td>
     </tr>
     <tr>
@@ -249,12 +242,15 @@
             <a href="https://github.com/drghdtjr">
                 <img src="http://img.shields.io/badge/drghdtjr-green?style=social&logo=github"/>
             </a>
-        </td> 
-     </tr>
+        </td>
+    </tr>
     </tbody>
 </table>
 
 <br>
 
 ## 📝 Blog
-## 블로그 링크
+> 블로그나 기술 문서를 정리한 링크를 남겨주세요
+
+---
+
