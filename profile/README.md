@@ -139,32 +139,32 @@
             </a>
         </td>
         <td width="100" align="center">
-             <a href="https://github.com/drghdtjr">
+             <a href="https://github.com/00tacita00">
                 <img src="https://github.com/user-attachments/assets/d851b869-6275-455f-86d0-8e3714771b17" width="70" height="70">
             </a>
         </td>
         <td width="100" align="center">
-             <a href="https://github.com/drghdtjr">
+             <a href="https://github.com/RyuKangIn">
                 <img src="https://github.com/user-attachments/assets/d851b869-6275-455f-86d0-8e3714771b17" width="70" height="70">
             </a>
         </td>
         <td width="100" align="center">
-             <a href="https://github.com/drghdtjr">
+             <a href="https://github.com/ehdgusdl">
                 <img src="https://github.com/user-attachments/assets/d851b869-6275-455f-86d0-8e3714771b17" width="70" height="70">
             </a>
         </td>
         <td width="100" align="center">
-             <a href="https://github.com/drghdtjr">
+             <a href="https://github.com/djeu1116">
                 <img src="https://github.com/user-attachments/assets/d851b869-6275-455f-86d0-8e3714771b17" width="70" height="70">
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/drghdtjr">
+            <a href="https://github.com/chocandy">
                 <img src="https://github.com/user-attachments/assets/d851b869-6275-455f-86d0-8e3714771b17" width="70" height="70">
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/drghdtjr">
+            <a href="https://github.com/yoon733">
                 <img src="https://github.com/user-attachments/assets/d851b869-6275-455f-86d0-8e3714771b17" width="70" height="70">
             </a>
         </td> 
@@ -213,7 +213,7 @@
         </td>
         <td width="100" align="center">
             <a href="https://github.com/00tacita00">
-                <img src="http://img.shields.io/badge/drghdtjr-green?style=social&logo=github"/>
+                <img src="http://img.shields.io/badge/RyuKangIn-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
