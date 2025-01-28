@@ -172,12 +172,12 @@
     <tr>
         <th>Name</th>
         <td width="100" align="center">김홍석</td>
-        <td width="100" align="center">김홍석</td>
-        <td width="100" align="center">김홍석</td>
-        <td width="100" align="center">김홍석</td>
-        <td width="100" align="center">김홍석</td>
-        <td width="100" align="center">김홍석</td>
-        <td width="100" align="center">김홍석</td>
+        <td width="100" align="center">이서영</td>
+        <td width="100" align="center">유강인</td>
+        <td width="100" align="center">김동현</td>
+        <td width="100" align="center">김유현</td>
+        <td width="100" align="center">조민정</td>
+        <td width="100" align="center">김지윤</td>
     </tr>
     <tr>
         <th>Position</th>
@@ -212,32 +212,32 @@
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/drghdtjr">
+            <a href="https://github.com/00tacita00">
                 <img src="http://img.shields.io/badge/drghdtjr-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/drghdtjr">
+            <a href="https://github.com/RyuKangIn">
                 <img src="http://img.shields.io/badge/drghdtjr-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/drghdtjr">
+            <a href="https://github.com/ehdgusdl">
                 <img src="http://img.shields.io/badge/drghdtjr-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/drghdtjr">
+            <a href="https://github.com/djeu1116">
                 <img src="http://img.shields.io/badge/drghdtjr-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/drghdtjr">
+            <a href="https://github.com/chocandy">
                 <img src="http://img.shields.io/badge/drghdtjr-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/drghdtjr">
+            <a href="https://github.com/yoon733">
                 <img src="http://img.shields.io/badge/drghdtjr-green?style=social&logo=github"/>
             </a>
         </td>
