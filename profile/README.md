@@ -54,15 +54,10 @@
 > Grafana & Slack
 
 <table>
-  <tr>
-    <td align="center"><b></b></td>
-  </tr>
-  <tr>
-    <td>
-      <img width="1505" alt="대시보드사진" src="https://github.com/user-attachments/assets/17a9617c-4b7e-44f2-8eaf-2ed94662a76c" />
-      <img width="511" alt="슬랙사진" src="https://github.com/user-attachments/assets/1b1ec1ff-b96a-48a9-8a91-232b8f656277" />
-    </td>
-  </tr>
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+  <img width="750" alt="Grafana Dashboard" src="https://github.com/user-attachments/assets/17a9617c-4b7e-44f2-8eaf-2ed94662a76c" />
+  <img width="400" alt="Slack Notification" src="https://github.com/user-attachments/assets/1b1ec1ff-b96a-48a9-8a91-232b8f656277" />
+</div>
 </table>
 
 <br>
