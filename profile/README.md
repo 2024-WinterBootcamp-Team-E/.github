@@ -1,6 +1,6 @@
 <div align="center">
 
-# EASTUDY
+# 영어학습 서비스, EASTUDY
 
 <img src="https://github.com/user-attachments/assets/f68c3d89-0ec0-4920-bccf-4feef76caebb" alt="로고">
 
