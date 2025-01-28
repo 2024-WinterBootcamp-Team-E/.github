@@ -113,11 +113,11 @@ https://github.com/user-attachments/assets/328df405-b182-4506-86e2-4cb28fd1396e
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/AMAZON_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Amazon_Route53-CA4245?style=for-the-badge&logo=amazonroute53&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Route53-CA4245?style=for-the-badge&logo=amazonroute53&logoColor=white"><br>
       <img src="https://img.shields.io/badge/CloudFront-003399?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Elastic_Load_Balancing-8C4FFF?style=for-the-badge&logo=awselasticloadbalancing&logoColor=black"/><br>
+      <img src="https://img.shields.io/badge/ELB-8C4FFF?style=for-the-badge&logo=awselasticloadbalancing&logoColor=black"/><br>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br>
