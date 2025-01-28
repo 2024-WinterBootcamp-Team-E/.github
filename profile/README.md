@@ -106,6 +106,7 @@ https://github.com/user-attachments/assets/328df405-b182-4506-86e2-4cb28fd1396e
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br>
       <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/><br>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/><br>
@@ -161,7 +162,7 @@ https://github.com/user-attachments/assets/328df405-b182-4506-86e2-4cb28fd1396e
         </td>
         <td width="100" align="center">
              <a href="https://github.com/00tacita00">
-                <img src="https://github.com/user-attachments/assets/d851b869-6275-455f-86d0-8e3714771b17" width="70" height="70">
+                <img src="https://github.com/user-attachments/assets/d81b1d28-8408-47ec-8166-b88ad48a2076" width="70" height="70">
             </a>
         </td>
         <td width="100" align="center">
