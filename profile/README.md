@@ -30,7 +30,10 @@
 
 <br>
 # 발음평가 영상
-## 영상
+<video controls width="600">
+  <source src="https://github.com/user-attachments/assets/3810cea5-e8f1-476f-9e7c-10cd0d1ff4aa" type="video/mp4">
+</video>
+
 
 <br>
 # 마이페이지 영상
