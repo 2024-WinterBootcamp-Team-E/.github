@@ -83,6 +83,8 @@
     <td align="center">
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"><br>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/><br>
@@ -92,18 +94,21 @@
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/AMAZON_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/><br>
-     <img src="https://img.shields.io/badge/ELB-8C4FFF?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/CloudFront-003399?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Amazon_Route53-CA4245?style=for-the-badge&logo=Amazon_Route53&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/CloudFront-003399?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/AWS_Elastic_Load_Balancing-8C4FFF?style=for-the-badge&logo=AWS_Elastic_Load_Balancingt&logoColor=black"/><br>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/AMAZON_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/AMAZON_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/><br>
     </td>
     <td align="center">
        <img src="https://img.shields.io/badge/Cadvisor-34E0A1?style=for-the-badge&logo=tripadvisor&logoColor=white"/><br>
        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/><br>
        <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white"/><br>
+       <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=K6t&logoColor=black"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/><br>
