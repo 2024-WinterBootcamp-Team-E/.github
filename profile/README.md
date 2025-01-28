@@ -39,8 +39,7 @@
 <br>
 
 ## 🚧 System Architecture
-<img width="963" alt="스크린샷 2025-01-28 오전 2 20 22" src="https://github.com/user-attachments/assets/73708d12-6410-4528-be47-260d9e7268de
-" />
+<img width="963" alt="스크린샷 2025-01-28 오전 2 20 22" src="![image](https://github.com/user-attachments/assets/88f08068-a3b7-43d1-b300-a772d21e6d84)" />
 
 <br>
 
