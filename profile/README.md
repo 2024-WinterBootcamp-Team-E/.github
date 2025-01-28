@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td>
-      <img width="1505" alt="대시보드사진" src="https://github.com/user-attachments/assets/fa59ccba-6ace-4026-844e-25c7e188f665" />
+      <img width="1505" alt="대시보드사진" src="https://github.com/user-attachments/assets/17a9617c-4b7e-44f2-8eaf-2ed94662a76c" />
       <img width="511" alt="슬랙사진" src="https://github.com/user-attachments/assets/1b1ec1ff-b96a-48a9-8a91-232b8f656277" />
     </td>
   </tr>
