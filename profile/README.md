@@ -52,13 +52,13 @@ https://github.com/user-attachments/assets/328df405-b182-4506-86e2-4cb28fd1396e
 
 ## 🔗 ERD
 
-![erd](https://github.com/user-attachments/assets/f6521686-f723-4fe5-b9a4-f95a16caa49d)
+![erd](https://github.com/user-attachments/assets/f6a1119c-83ca-4acf-ab6e-53377126ec77)
 
 
 <br>
 
 ## 🚧 System Architecture
-<img width="963" alt="스크린샷 2025-01-28 오전 2 20 22" src="https://github.com/user-attachments/assets/88f08068-a3b7-43d1-b300-a772d21e6d84" />
+<img width="963" alt="스크린샷 2025-01-28 오전 2 20 22" src="https://github.com/user-attachments/assets/acba6518-8236-4a26-8e84-3aa91ec11bc0" />
 
 <br>
 
