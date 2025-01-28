@@ -159,7 +159,7 @@
         </td>
         <td width="100" align="center">
             <a href="https://github.com/chocandy">
-                <img src="https://github.com/user-attachments/assets/d851b869-6275-455f-86d0-8e3714771b17" width="70" height="70">
+                <img src="https://github.com/user-attachments/assets/7b31b0e3-c485-4d5f-9995-f97070b2ef30" width="70" height="70">
             </a>
         </td>
         <td width="100" align="center">
