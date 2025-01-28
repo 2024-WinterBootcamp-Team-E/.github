@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/62eb1342-9bb8-420c-a8c9-7a2a4fdceda2
 
 <br>
 
-# 마이페이지 영상
+## 마이페이지 영상
 
 
 https://github.com/user-attachments/assets/328df405-b182-4506-86e2-4cb28fd1396e
