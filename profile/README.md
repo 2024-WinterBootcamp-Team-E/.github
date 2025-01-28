@@ -34,6 +34,10 @@ https://github.com/user-attachments/assets/62eb1342-9bb8-420c-a8c9-7a2a4fdceda2
 ## 발음평가 
 
 
+https://github.com/user-attachments/assets/e1e54a78-3dba-458d-981a-c11318beeafe
+
+
+
 <br>
 
 ## 마이페이지 영상
