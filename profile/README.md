@@ -1,7 +1,10 @@
-# EASTUDY - 영어학습을 위한 서비스
+<div align="center">
 
-![로고](https://github.com/user-attachments/assets/f68c3d89-0ec0-4920-bccf-4feef76caebb)
+# EASTUDY
 
+<img src="https://github.com/user-attachments/assets/f68c3d89-0ec0-4920-bccf-4feef76caebb" alt="로고">
+
+</div>
 
 <br>
 
@@ -17,7 +20,7 @@
 
 <br>
 
-## 회원가입,로그인
+## SIGNUP, SIGNIN
 
 
 https://github.com/user-attachments/assets/62eb1342-9bb8-420c-a8c9-7a2a4fdceda2
@@ -26,7 +29,7 @@ https://github.com/user-attachments/assets/62eb1342-9bb8-420c-a8c9-7a2a4fdceda2
 
 <br>
 
-## 채팅방 생성 및 대화 
+## CONVERSATION
 
 
 https://github.com/user-attachments/assets/0b507509-5fd0-4fa8-b29d-3bc40903c804
@@ -34,8 +37,7 @@ https://github.com/user-attachments/assets/0b507509-5fd0-4fa8-b29d-3bc40903c804
 
 <br>
 
-## 발음평가 
-
+## SENTENCE
 
 https://github.com/user-attachments/assets/e1e54a78-3dba-458d-981a-c11318beeafe
 
@@ -43,7 +45,7 @@ https://github.com/user-attachments/assets/e1e54a78-3dba-458d-981a-c11318beeafe
 
 <br>
 
-## 마이페이지 영상
+## MY PAGE
 
 
 https://github.com/user-attachments/assets/328df405-b182-4506-86e2-4cb28fd1396e
@@ -64,7 +66,7 @@ https://github.com/user-attachments/assets/328df405-b182-4506-86e2-4cb28fd1396e
 
 ## 📡 API
 
-![시스템](https://github.com/user-attachments/assets/a0f3e089-8973-4d03-87ab-11223d91e017)
+![시스템](https://github.com/user-attachments/assets/0b9eaacf-d5ca-4e56-b384-82b451c65189)
 
 
 <br>
@@ -115,7 +117,7 @@ https://github.com/user-attachments/assets/328df405-b182-4506-86e2-4cb28fd1396e
       <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/Amazon_Route53-CA4245?style=for-the-badge&logo=amazonroute53&logoColor=white"><br>
       <img src="https://img.shields.io/badge/CloudFront-003399?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/AWS_Elastic_Load_Balancing-8C4FFF?style=for-the-badge&logo=awselasticloadbalancing&logoColor=black"/><br>
+      <img src="https://img.shields.io/badge/Elastic_Load_Balancing-8C4FFF?style=for-the-badge&logo=awselasticloadbalancing&logoColor=black"/><br>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br>
@@ -154,7 +156,7 @@ https://github.com/user-attachments/assets/328df405-b182-4506-86e2-4cb28fd1396e
         <th>Pictures</th>
          <td width="100" align="center">
             <a href="https://github.com/drghdtjr">
-                <img src="https://github.com/user-attachments/assets/d851b869-6275-455f-86d0-8e3714771b17" width="70" height="70">
+                <img src="https://github.com/user-attachments/assets/b61b8ecf-ff57-409c-9288-a6f457a7976b" width="70" height="70">
             </a>
         </td>
         <td width="100" align="center">
@@ -164,7 +166,7 @@ https://github.com/user-attachments/assets/328df405-b182-4506-86e2-4cb28fd1396e
         </td>
         <td width="100" align="center">
              <a href="https://github.com/RyuKangIn">
-                <img src="https://github.com/user-attachments/assets/7483be07-98a7-4a64-b6ee-a47b3d4bc184" width="70" height="70">
+                <img src="https://github.com/user-attachments/assets/34b0b4fe-a73f-48c2-acb5-1528c9a5b8e7" width="70" height="70">
             </a>
         </td>
         <td width="100" align="center">
