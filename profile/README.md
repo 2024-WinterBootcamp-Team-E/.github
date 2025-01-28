@@ -18,7 +18,16 @@
 <br>
 # 회원가입 , 로그인
 ## 영상 
-https://github.com/user-attachments/assets/c42ee883-f100-4bd1-a642-1a6cd112e621
+
+
+
+
+
+https://github.com/user-attachments/assets/62eb1342-9bb8-420c-a8c9-7a2a4fdceda2
+
+
+
+
 
 
 
@@ -35,7 +44,12 @@ https://github.com/user-attachments/assets/c42ee883-f100-4bd1-a642-1a6cd112e621
 <br>
 # 마이페이지 영상
 ## 영상 
-![마이페이지 5배](https://github.com/user-attachments/assets/0990ed15-8347-4eed-a250-1b9138aeaee9)
+
+
+
+
+https://github.com/user-attachments/assets/328df405-b182-4506-86e2-4cb28fd1396e
+
 
 
 
