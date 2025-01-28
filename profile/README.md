@@ -212,7 +212,7 @@
         </td>
         <td width="100" align="center">
             <a href="https://github.com/00tacita00">
-                <img src="https://github.com/user-attachments/assets/740d5e09-56b4-46cd-9cf0-2c382cc666cb"/>
+                <img src="http://img.shields.io/badge/drghdtjr-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
@@ -222,7 +222,7 @@
         </td>
         <td width="100" align="center">
             <a href="https://github.com/ehdgusdl">
-                <img src="https://github.com/user-attachments/assets/3409d534-ad0d-4f54-9eb4-6f3f3f24b1a7"/>
+                <img src="http://img.shields.io/badge/drghdtjr-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
@@ -232,12 +232,12 @@
         </td>
         <td width="100" align="center">
             <a href="https://github.com/chocandy">
-                <img src="https://github.com/user-attachments/assets/336cced7-f279-49e1-ae51-91781aff678b"/>
+                <img src="http://img.shields.io/badge/drghdtjr-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
             <a href="https://github.com/yoon733">
-                <img src=""/>
+                <img src="http://img.shields.io/badge/drghdtjr-green?style=social&logo=github"/>
             </a>
         </td>
     </tr>
