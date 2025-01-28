@@ -39,8 +39,9 @@
 <br>
 
 ## 🚧 System Architecture
-<img width="963" alt="스크린샷 2025-01-28 오전 2 20 22" src="https://github.com/user-attachments/assets/c77951bd-defc-4d30-a232-09e12c1cb77d" />
-src="![스크린샷 2025-01-28 오후 4.01.44.png](attachment:c77951bd-defc-4d30-a232-09e12c1cb77d:스크린샷_2025-01-28_오후_4.01.44.png)"
+<img width="963" alt="스크린샷 2025-01-28 오전 2 20 22" src="https://github.com/user-attachments/assets/73708d12-6410-4528-be47-260d9e7268de
+" />
+
 <br>
 
 ## 📡 API
