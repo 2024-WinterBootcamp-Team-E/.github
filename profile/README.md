@@ -92,7 +92,7 @@
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/AMAZON_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/elb-8C4FFF?style=for-the-badge&logo=elastic_load_balancing&logoColor=white"/><br>
+     <img src="https://img.shields.io/badge/ELB-8C4FFF?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/CloudFront-003399?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
     </td>
     <td align="center">
