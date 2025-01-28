@@ -17,41 +17,29 @@
 
 <br>
 
-# 회원가입 , 로그인
-
-
-
-
-
+## 회원가입,로그인
 
 
 https://github.com/user-attachments/assets/62eb1342-9bb8-420c-a8c9-7a2a4fdceda2
 
 
 
+<br>
 
-
-
-
+## 채팅방 생성 및 대화 
 
 
 <br>
-# 채팅방 생성 및 대화 영상
-## 영상
 
-<br>
-# 발음평가 영상
+## 발음평가 
 
 
 <br>
+
 # 마이페이지 영상
-## 영상 
-
-
 
 
 https://github.com/user-attachments/assets/328df405-b182-4506-86e2-4cb28fd1396e
-
 
 
 
