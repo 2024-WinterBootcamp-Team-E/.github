@@ -38,8 +38,8 @@
 
 <br>
 
-## 🚧 System Architecture
-<img width="963" alt="스크린샷 2025-01-28 오전 2 20 22" src="https://github.com/user-attachments/assets/776e948c-e2ce-45a7-af47-ebccb8619333" />
+## 🚧 System Architecture!
+<img width="963" alt="스크린샷 2025-01-28 오전 2 20 22" src="https://github.com/user-attachments/assets/c77951bd-defc-4d30-a232-09e12c1cb77d" />
 
 
 <br>
