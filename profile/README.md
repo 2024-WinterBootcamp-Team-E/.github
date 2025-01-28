@@ -53,10 +53,16 @@
 ## 🖥️ Monitoring Tools
 > Grafana & Slack
 
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <img width="750" alt="Grafana Dashboard" src="https://github.com/user-attachments/assets/17a9617c-4b7e-44f2-8eaf-2ed94662a76c" />
-  <img width="400" alt="Slack Notification" src="https://github.com/user-attachments/assets/1b1ec1ff-b96a-48a9-8a91-232b8f656277" />
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img width="750" alt="Grafana Dashboard" src="https://github.com/user-attachments/assets/17a9617c-4b7e-44f2-8eaf-2ed94662a76c" />
+    </td>
+    <td align="center">
+      <img width="400" alt="Slack Notification" src="https://github.com/user-attachments/assets/1b1ec1ff-b96a-48a9-8a91-232b8f656277" />
+    </td>
+  </tr>
+</table>
 
 
 <br>
