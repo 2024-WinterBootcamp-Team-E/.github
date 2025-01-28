@@ -29,6 +29,9 @@ https://github.com/user-attachments/assets/62eb1342-9bb8-420c-a8c9-7a2a4fdceda2
 ## 채팅방 생성 및 대화 
 
 
+https://github.com/user-attachments/assets/0b507509-5fd0-4fa8-b29d-3bc40903c804
+
+
 <br>
 
 ## 발음평가 
