@@ -18,7 +18,7 @@
 <br>
 # 회원가입 , 로그인
 ## 영상 
-![회원가입 및 로그인 4배](https://github.com/user-attachments/assets/c42ee883-f100-4bd1-a642-1a6cd112e621)
+https://github.com/user-attachments/assets/c42ee883-f100-4bd1-a642-1a6cd112e621
 
 
 
@@ -30,9 +30,6 @@
 
 <br>
 # 발음평가 영상
-<video controls width="600">
-  <source src="https://github.com/user-attachments/assets/3810cea5-e8f1-476f-9e7c-10cd0d1ff4aa" type="video/mp4">
-</video>
 
 
 <br>
