@@ -9,7 +9,7 @@
 <br>
 
 ## 🗂 Index
-- [Service Flow](#service-flow)
+- [Service Flow](#signup,-signin)
 - [System Architecture](#system-architecture)
 - [ERD](#erd)
 - [API](#api)
@@ -65,7 +65,7 @@ https://github.com/user-attachments/assets/909034f5-f4d8-442d-a2b1-c28b7a444c02
 
 <br>
 
-## 📡 API
+## 📡API
 
 ![시스템](https://github.com/user-attachments/assets/0b9eaacf-d5ca-4e56-b384-82b451c65189)
 
