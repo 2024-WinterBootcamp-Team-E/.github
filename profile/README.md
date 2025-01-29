@@ -9,10 +9,10 @@
 <br>
 
 ## 🗂 Index
-- [Service Flow](#signup,-signin)
+- [Service Flow](#signup,-signin)
 - [System Architecture](#system-architecture)
-- [ERD](#erd)
 - [API](#api)
+- [ERD](#erd)
 - [Monitoring Tools](#monitoring-tools)
 - [Tech Stack](#tech-stack)
 - [Member](#member)
