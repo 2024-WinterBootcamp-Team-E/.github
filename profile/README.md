@@ -53,14 +53,14 @@ https://github.com/user-attachments/assets/909034f5-f4d8-442d-a2b1-c28b7a444c02
 
 <br>
 
-## 🔗 ERD
+## 🔗ERD
 
 ![erd](https://github.com/user-attachments/assets/f6a1119c-83ca-4acf-ab6e-53377126ec77)
 
 
 <br>
 
-## 🚧 System Architecture
+## 🚧System Architecture
 <img width="963" alt="스크린샷 2025-01-28 오전 2 20 22" src="https://github.com/user-attachments/assets/acba6518-8236-4a26-8e84-3aa91ec11bc0" />
 
 <br>
@@ -72,7 +72,7 @@ https://github.com/user-attachments/assets/909034f5-f4d8-442d-a2b1-c28b7a444c02
 
 <br>
 
-## 🖥️ Monitoring Tools
+## 🖥️Monitoring Tools
 > Grafana & Slack
 
 <table>
@@ -147,7 +147,7 @@ https://github.com/user-attachments/assets/909034f5-f4d8-442d-a2b1-c28b7a444c02
 
 <br>
 
-## 🧑‍🤝‍🧑 Member
+## 🧑‍🤝‍🧑Member
 
 <table width="1000">
     <thead>
@@ -269,7 +269,7 @@ https://github.com/user-attachments/assets/909034f5-f4d8-442d-a2b1-c28b7a444c02
 
 <br>
 
-## 📝 Blog  
+## 📝Blog  
 [2024 Silicon Valley Winter Bootcamp Brainwasher Korean](https://medium.com/@drghdtjr2/2024-siliconvalley-winter-bootcamp-brainwasher-korean-c0ddc78cbd87)
 ---
 
