@@ -23,8 +23,7 @@
 ## SIGNUP, SIGNIN
 
 
-https://github.com/user-attachments/assets/62eb1342-9bb8-420c-a8c9-7a2a4fdceda2
-
+https://github.com/user-attachments/assets/376d98e1-4c45-4a43-b05d-8b149ac37e19
 
 
 <br>
@@ -32,12 +31,13 @@ https://github.com/user-attachments/assets/62eb1342-9bb8-420c-a8c9-7a2a4fdceda2
 ## CONVERSATION
 
 
-https://github.com/user-attachments/assets/0b507509-5fd0-4fa8-b29d-3bc40903c804
+https://github.com/user-attachments/assets/af09e89f-a9e8-41ec-b81a-e753649f38f3
 
 
 <br>
 
 ## SENTENCE
+
 
 https://github.com/user-attachments/assets/e1e54a78-3dba-458d-981a-c11318beeafe
 
@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/e1e54a78-3dba-458d-981a-c11318beeafe
 ## MY PAGE
 
 
-https://github.com/user-attachments/assets/328df405-b182-4506-86e2-4cb28fd1396e
+https://github.com/user-attachments/assets/909034f5-f4d8-442d-a2b1-c28b7a444c02
 
 
 
