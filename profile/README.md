@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/af09e89f-a9e8-41ec-b81a-e753649f38f3
 ## SENTENCE
 
 
-https://github.com/user-attachments/assets/e1e54a78-3dba-458d-981a-c11318beeafe
+https://github.com/user-attachments/assets/8c5dc1cf-65d6-4f41-8800-cfbfdc952936
 
 
 
