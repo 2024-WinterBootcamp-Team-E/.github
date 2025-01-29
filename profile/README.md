@@ -267,6 +267,6 @@ https://github.com/user-attachments/assets/909034f5-f4d8-442d-a2b1-c28b7a444c02
 <br>
 
 ## 📝Blog  
-[2024 Silicon Valley Winter Bootcamp Brainwasher Korean](https://medium.com/@drghdtjr2/2024-siliconvalley-winter-bootcamp-brainwasher-korean-c0ddc78cbd87)
+[2024 Silicon Valley Winter Bootcamp (Korean)](https://medium.com/@drghdtjr2/2024-siliconvalley-winter-bootcamp-brainwasher-korean-c0ddc78cbd87)
 ---
 
