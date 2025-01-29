@@ -30,8 +30,7 @@ https://github.com/user-attachments/assets/376d98e1-4c45-4a43-b05d-8b149ac37e19
 
 ## CONVERSATION
 
-
-https://github.com/user-attachments/assets/af09e89f-a9e8-41ec-b81a-e753649f38f3
+https://github.com/user-attachments/assets/66962701-3fc6-4061-b328-f679bced2957
 
 
 <br>
