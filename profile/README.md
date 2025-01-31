@@ -1,4 +1,4 @@
-<div align="center">
+![사진](https://github.com/user-attachments/assets/4d5fc9e8-d680-4868-bc0d-99d95c0ce98f)<div align="center">
 
 # 🇬🇧영어학습 서비스 EASTUDY🇺🇸
 
@@ -154,7 +154,7 @@ https://github.com/user-attachments/assets/909034f5-f4d8-442d-a2b1-c28b7a444c02
         <th>Pictures</th>
          <td width="100" align="center">
             <a href="https://github.com/drghdtjr">
-                <img src="https://github.com/user-attachments/assets/b61b8ecf-ff57-409c-9288-a6f457a7976b" width="70" height="70">
+                <img src="https://github.com/user-attachments/assets/49233f1d-7692-4791-bf6e-6b90a9547b1f" width="70" height="70">
             </a>
         </td>
         <td width="100" align="center">
