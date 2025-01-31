@@ -1,4 +1,4 @@
-![사진](https://github.com/user-attachments/assets/4d5fc9e8-d680-4868-bc0d-99d95c0ce98f)<div align="center">
+
 
 # 🇬🇧영어학습 서비스 EASTUDY🇺🇸
 
